@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayAccessLib", "ArrayAccessLib\ArrayAccessLib.csproj", "{B43BF38E-E49E-4F71-A671-77DE3A39251C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayAccessLibTests", "ArrayAccessLibTests\ArrayAccessLibTests.csproj", "{FF554CBB-1169-4478-BFD9-28EEF9C07EDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B43BF38E-E49E-4F71-A671-77DE3A39251C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B43BF38E-E49E-4F71-A671-77DE3A39251C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B43BF38E-E49E-4F71-A671-77DE3A39251C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B43BF38E-E49E-4F71-A671-77DE3A39251C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF554CBB-1169-4478-BFD9-28EEF9C07EDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF554CBB-1169-4478-BFD9-28EEF9C07EDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF554CBB-1169-4478-BFD9-28EEF9C07EDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF554CBB-1169-4478-BFD9-28EEF9C07EDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
